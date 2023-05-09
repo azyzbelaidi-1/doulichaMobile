@@ -1,0 +1,107 @@
+@media cn1{
+    Form {
+        padding: 20px;
+        
+        }
+        
+        /* Title and TextField */
+         Label,
+        TextField {
+        width: 100%;
+        }
+        
+       Label {
+        margin-top: 10px;
+        }
+        
+        TextField {
+        border: 2px solid #3fc4ed;
+        padding: 8px;
+        background-color: #272626;
+        color: #3fc4ed;
+        }
+        
+        /* Contenu label and TextArea */
+         Label,
+         TextArea {
+        width: 100%;
+        }
+        
+      Label {
+        margin-top: 10px;
+        color: #272626;
+        }
+        
+       TextArea {
+        border: 5px solid #3fc4ed;
+        border-radius: 30px;
+        background-color: #ddd;
+        padding: 8px;
+        }
+        title{
+            margin-top: 50px;
+        }
+        /* Image label and Button */
+        imageLabel,
+       selectImageButton {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        }
+        
+        imageLabel {
+        width: 100%;
+        color: #272626;
+        }
+        
+       selectImageButton {
+        background-color: #3fc4ed;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        font-size: 60px;
+        border-radius: 30px;
+        width: 30%;
+
+        }
+
+       title1 {
+	    color:#3fc4ed;
+        font-size: 90px;
+        text-align: left;
+        margin-top: 40px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+       
+        }
+        
+        /* Ajouter button */
+        Button {
+        margin: 20px;
+        width: 50%;
+        background-color: #3fc4ed;
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        font-size: 70px;
+        border-radius: 44px;
+        }
+        
+        /* Discussions list */
+     Container {
+        margin-top: 20px;
+        }
+        
+     discussion {
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        }
+        
+       Container {
+        margin-top: 10px;
+        text-align: right;
+        }
+        
+       
+    
+}

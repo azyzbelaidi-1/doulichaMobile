@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <theme name="Theme">
+        <val key="@imageMetadata" value="{}" />
+        <val key="HomeForm.dis#padUnit" value="0,0,0,0" />
+        <val key="HomeForm.dis#padding" value="20.0,20.0,20.0,20.0" />
+        <val key="HomeForm.fgColor" value="000000" />
+        <val key="HomeForm.padding" value="20.0,20.0,20.0,20.0" />
+        <val key="HomeForm.press#padUnit" value="0,0,0,0" />
+        <val key="HomeForm.press#padding" value="20.0,20.0,20.0,20.0" />
+        <val key="HomeForm.sel#padUnit" value="0,0,0,0" />
+        <val key="HomeForm.sel#padding" value="20.0,20.0,20.0,20.0" />
+        <val key="ajouterButton.align" value="4" />
+        <val key="ajouterButton.bgColor" value="3fc4ed" />
+        <border key="ajouterButton.border" type="css" css="background-color:#3fc4edff;border-radius:44px 44px 44px 44px / 44px 44px 44px 44px;border-width:0px 0px 0px 0px;border-style:none none none none;border-color:#00000000 #00000000 #00000000 #00000000;"/>
+        <val key="ajouterButton.dis#align" value="4" />
+        <val key="ajouterButton.dis#bgColor" value="3fc4ed" />
+        <border key="ajouterButton.dis#border" type="css" css="background-color:#3fc4edff;border-radius:44px 44px 44px 44px / 44px 44px 44px 44px;border-width:0px 0px 0px 0px;border-style:none none none none;border-color:#00000000 #00000000 #00000000 #00000000;"/>
+        <val key="ajouterButton.dis#fgColor" value="ffffff" />
+        <font key="ajouterButton.dis#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="70.0" />
+        <val key="ajouterButton.dis#marUnit" value="0,0,0,0" />
+        <val key="ajouterButton.dis#margin" value="20.0,20.0,20.0,20.0" />
+        <val key="ajouterButton.dis#padUnit" value="0,0,0,0" />
+        <val key="ajouterButton.dis#padding" value="10.0,10.0,20.0,20.0" />
+        <val key="ajouterButton.dis#transparency" value="255" />
+        <val key="ajouterButton.fgColor" value="ffffff" />
+        <font key="ajouterButton.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="70.0" />
+        <val key="ajouterButton.marUnit" value="0,0,0,0" />
+        <val key="ajouterButton.margin" value="20.0,20.0,20.0,20.0" />
+        <val key="ajouterButton.padUnit" value="0,0,0,0" />
+        <val key="ajouterButton.padding" value="10.0,10.0,20.0,20.0" />
+        <val key="ajouterButton.press#align" value="4" />
+        <val key="ajouterButton.press#bgColor" value="3fc4ed" />
+        <border key="ajouterButton.press#border" type="css" css="background-color:#3fc4edff;border-radius:44px 44px 44px 44px / 44px 44px 44px 44px;border-width:0px 0px 0px 0px;border-style:none none none none;border-color:#00000000 #00000000 #00000000 #00000000;"/>
+        <val key="ajouterButton.press#fgColor" value="ffffff" />
+        <font key="ajouterButton.press#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="70.0" />
+        <val key="ajouterButton.press#marUnit" value="0,0,0,0" />
+        <val key="ajouterButton.press#margin" value="20.0,20.0,20.0,20.0" />
+        <val key="ajouterButton.press#padUnit" value="0,0,0,0" />
+        <val key="ajouterButton.press#padding" value="10.0,10.0,20.0,20.0" />
+        <val key="ajouterButton.press#transparency" value="255" />
+        <val key="ajouterButton.sel#align" value="4" />
+        <val key="ajouterButton.sel#bgColor" value="3fc4ed" />
+        <border key="ajouterButton.sel#border" type="css" css="background-color:#3fc4edff;border-radius:44px 44px 44px 44px / 44px 44px 44px 44px;border-width:0px 0px 0px 0px;border-style:none none none none;border-color:#00000000 #00000000 #00000000 #00000000;"/>
+        <val key="ajouterButton.sel#fgColor" value="ffffff" />
+        <font key="ajouterButton.sel#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="70.0" />
+        <val key="ajouterButton.sel#marUnit" value="0,0,0,0" />
+        <val key="ajouterButton.sel#margin" value="20.0,20.0,20.0,20.0" />
+        <val key="ajouterButton.sel#padUnit" value="0,0,0,0" />
+        <val key="ajouterButton.sel#padding" value="10.0,10.0,20.0,20.0" />
+        <val key="ajouterButton.sel#transparency" value="255" />
+        <val key="ajouterButton.transparency" value="255" />
+        <val key="buttonsContainer.align" value="3" />
+        <val key="buttonsContainer.dis#align" value="3" />
+        <val key="buttonsContainer.dis#marUnit" value="0,0,0,0" />
+        <val key="buttonsContainer.dis#margin" value="10.0,0.0,0.0,0.0" />
+        <val key="buttonsContainer.marUnit" value="0,0,0,0" />
+        <val key="buttonsContainer.margin" value="10.0,0.0,0.0,0.0" />
+        <val key="buttonsContainer.press#align" value="3" />
+        <val key="buttonsContainer.press#marUnit" value="0,0,0,0" />
+        <val key="buttonsContainer.press#margin" value="10.0,0.0,0.0,0.0" />
+        <val key="buttonsContainer.sel#align" value="3" />
+        <val key="buttonsContainer.sel#marUnit" value="0,0,0,0" />
+        <val key="buttonsContainer.sel#margin" value="10.0,0.0,0.0,0.0" />
+        <val key="contenuArea.bgColor" value="dddddd" />
+        <val key="contenuArea.dis#bgColor" value="dddddd" />
+        <border key="contenuArea.dis#border" type="css" css="background-color:#ddddddff;border-radius:30px 30px 30px 30px / 30px 30px 30px 30px;border-width:5px 5px 5px 5px;border-style:solid solid solid solid;border-color:#3fc4edff #3fc4edff #3fc4edff #3fc4edff;"/>
+        <val key="contenuArea.dis#padUnit" value="0,0,0,0" />
+        <val key="contenuArea.dis#padding" value="8.0,8.0,8.0,8.0" />
+        <val key="contenuArea.dis#transparency" value="255" />
+        <val key="contenuArea.padding" value="8.0,8.0,8.0,8.0" />
+        <val key="contenuArea.press#bgColor" value="dddddd" />
+        <border key="contenuArea.press#border" type="css" css="background-color:#ddddddff;border-radius:30px 30px 30px 30px / 30px 30px 30px 30px;border-width:5px 5px 5px 5px;border-style:solid solid solid solid;border-color:#3fc4edff #3fc4edff #3fc4edff #3fc4edff;"/>
+        <val key="contenuArea.press#padUnit" value="0,0,0,0" />
+        <val key="contenuArea.press#padding" value="8.0,8.0,8.0,8.0" />
+        <val key="contenuArea.press#transparency" value="255" />
+        <val key="contenuArea.sel#bgColor" value="dddddd" />
+        <border key="contenuArea.sel#border" type="css" css="background-color:#ddddddff;border-radius:30px 30px 30px 30px / 30px 30px 30px 30px;border-width:5px 5px 5px 5px;border-style:solid solid solid solid;border-color:#3fc4edff #3fc4edff #3fc4edff #3fc4edff;"/>
+        <val key="contenuArea.sel#padding" value="8.0,8.0,8.0,8.0" />
+        <val key="contenuArea.sel#transparency" value="255" />
+        <val key="contenuLabel.dis#fgColor" value="272626" />
+        <val key="contenuLabel.dis#marUnit" value="0,0,0,0" />
+        <val key="contenuLabel.dis#margin" value="10.0,0.0,0.0,0.0" />
+        <val key="contenuLabel.fgColor" value="272626" />
+        <val key="contenuLabel.marUnit" value="0,0,0,0" />
+        <val key="contenuLabel.margin" value="10.0,0.0,0.0,0.0" />
+        <val key="contenuLabel.press#fgColor" value="272626" />
+        <val key="contenuLabel.press#marUnit" value="0,0,0,0" />
+        <val key="contenuLabel.press#margin" value="10.0,0.0,0.0,0.0" />
+        <val key="contenuLabel.sel#fgColor" value="272626" />
+        <val key="contenuLabel.sel#marUnit" value="0,0,0,0" />
+        <val key="contenuLabel.sel#margin" value="10.0,0.0,0.0,0.0" />
+        <border key="discussion.border" type="line" millimeters="false" thickness="1.0" color="14540253" />
+        <border key="discussion.dis#border" type="line" millimeters="false" thickness="1.0" color="14540253" />
+        <val key="discussion.dis#marUnit" value="0,0,0,0" />
+        <val key="discussion.dis#margin" value="0.0,10.0,0.0,0.0" />
+        <val key="discussion.dis#padUnit" value="0,0,0,0" />
+        <val key="discussion.dis#padding" value="10.0,10.0,10.0,10.0" />
+        <val key="discussion.marUnit" value="0,0,0,0" />
+        <val key="discussion.margin" value="0.0,10.0,0.0,0.0" />
+        <val key="discussion.padUnit" value="0,0,0,0" />
+        <val key="discussion.padding" value="10.0,10.0,10.0,10.0" />
+        <border key="discussion.press#border" type="line" millimeters="false" thickness="1.0" color="14540253" />
+        <val key="discussion.press#marUnit" value="0,0,0,0" />
+        <val key="discussion.press#margin" value="0.0,10.0,0.0,0.0" />
+        <val key="discussion.press#padUnit" value="0,0,0,0" />
+        <val key="discussion.press#padding" value="10.0,10.0,10.0,10.0" />
+        <border key="discussion.sel#border" type="line" millimeters="false" thickness="1.0" color="14540253" />
+        <val key="discussion.sel#marUnit" value="0,0,0,0" />
+        <val key="discussion.sel#margin" value="0.0,10.0,0.0,0.0" />
+        <val key="discussion.sel#padUnit" value="0,0,0,0" />
+        <val key="discussion.sel#padding" value="10.0,10.0,10.0,10.0" />
+        <val key="discussionsContainer.dis#marUnit" value="0,0,0,0" />
+        <val key="discussionsContainer.dis#margin" value="20.0,0.0,0.0,0.0" />
+        <val key="discussionsContainer.marUnit" value="0,0,0,0" />
+        <val key="discussionsContainer.margin" value="20.0,0.0,0.0,0.0" />
+        <val key="discussionsContainer.press#marUnit" value="0,0,0,0" />
+        <val key="discussionsContainer.press#margin" value="20.0,0.0,0.0,0.0" />
+        <val key="discussionsContainer.sel#marUnit" value="0,0,0,0" />
+        <val key="discussionsContainer.sel#margin" value="20.0,0.0,0.0,0.0" />
+        <val key="imageLabel.dis#fgColor" value="272626" />
+        <val key="imageLabel.dis#marUnit" value="0,0,0,0" />
+        <val key="imageLabel.dis#margin" value="10.0,10.0,0.0,0.0" />
+        <val key="imageLabel.fgColor" value="272626" />
+        <val key="imageLabel.marUnit" value="0,0,0,0" />
+        <val key="imageLabel.margin" value="10.0,10.0,0.0,0.0" />
+        <val key="imageLabel.press#fgColor" value="272626" />
+        <val key="imageLabel.press#marUnit" value="0,0,0,0" />
+        <val key="imageLabel.press#margin" value="10.0,10.0,0.0,0.0" />
+        <val key="imageLabel.sel#fgColor" value="272626" />
+        <val key="imageLabel.sel#marUnit" value="0,0,0,0" />
+        <val key="imageLabel.sel#margin" value="10.0,10.0,0.0,0.0" />
+        <val key="selectImageButton.align" value="4" />
+        <val key="selectImageButton.bgColor" value="3fc4ed" />
+        <border key="selectImageButton.border" type="css" css="background-color:#3fc4edff;border-radius:30px 30px 30px 30px / 30px 30px 30px 30px;border-width:0px 0px 0px 0px;border-style:none none none none;border-color:#00000000 #00000000 #00000000 #00000000;"/>
+        <val key="selectImageButton.dis#align" value="4" />
+        <val key="selectImageButton.dis#bgColor" value="3fc4ed" />
+        <border key="selectImageButton.dis#border" type="css" css="background-color:#3fc4edff;border-radius:30px 30px 30px 30px / 30px 30px 30px 30px;border-width:0px 0px 0px 0px;border-style:none none none none;border-color:#00000000 #00000000 #00000000 #00000000;"/>
+        <val key="selectImageButton.dis#fgColor" value="ffffff" />
+        <font key="selectImageButton.dis#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="60.0" />
+        <val key="selectImageButton.dis#marUnit" value="0,0,0,0" />
+        <val key="selectImageButton.dis#margin" value="10.0,10.0,0.0,0.0" />
+        <val key="selectImageButton.dis#padUnit" value="0,0,0,0" />
+        <val key="selectImageButton.dis#padding" value="10.0,10.0,20.0,20.0" />
+        <val key="selectImageButton.dis#transparency" value="255" />
+        <val key="selectImageButton.fgColor" value="ffffff" />
+        <font key="selectImageButton.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="60.0" />
+        <val key="selectImageButton.marUnit" value="0,0,0,0" />
+        <val key="selectImageButton.margin" value="10.0,10.0,0.0,0.0" />
+        <val key="selectImageButton.padUnit" value="0,0,0,0" />
+        <val key="selectImageButton.padding" value="10.0,10.0,20.0,20.0" />
+        <val key="selectImageButton.press#align" value="4" />
+        <val key="selectImageButton.press#bgColor" value="3fc4ed" />
+        <border key="selectImageButton.press#border" type="css" css="background-color:#3fc4edff;border-radius:30px 30px 30px 30px / 30px 30px 30px 30px;border-width:0px 0px 0px 0px;border-style:none none none none;border-color:#00000000 #00000000 #00000000 #00000000;"/>
+        <val key="selectImageButton.press#fgColor" value="ffffff" />
+        <font key="selectImageButton.press#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="60.0" />
+        <val key="selectImageButton.press#marUnit" value="0,0,0,0" />
+        <val key="selectImageButton.press#margin" value="10.0,10.0,0.0,0.0" />
+        <val key="selectImageButton.press#padUnit" value="0,0,0,0" />
+        <val key="selectImageButton.press#padding" value="10.0,10.0,20.0,20.0" />
+        <val key="selectImageButton.press#transparency" value="255" />
+        <val key="selectImageButton.sel#align" value="4" />
+        <val key="selectImageButton.sel#bgColor" value="3fc4ed" />
+        <border key="selectImageButton.sel#border" type="css" css="background-color:#3fc4edff;border-radius:30px 30px 30px 30px / 30px 30px 30px 30px;border-width:0px 0px 0px 0px;border-style:none none none none;border-color:#00000000 #00000000 #00000000 #00000000;"/>
+        <val key="selectImageButton.sel#fgColor" value="ffffff" />
+        <font key="selectImageButton.sel#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="60.0" />
+        <val key="selectImageButton.sel#marUnit" value="0,0,0,0" />
+        <val key="selectImageButton.sel#margin" value="10.0,10.0,0.0,0.0" />
+        <val key="selectImageButton.sel#padUnit" value="0,0,0,0" />
+        <val key="selectImageButton.sel#padding" value="10.0,10.0,20.0,20.0" />
+        <val key="selectImageButton.sel#transparency" value="255" />
+        <val key="selectImageButton.transparency" value="255" />
+        <val key="title.dis#marUnit" value="0,0,0,0" />
+        <val key="title.dis#margin" value="50.0,0.0,0.0,0.0" />
+        <val key="title.marUnit" value="0,0,0,0" />
+        <val key="title.margin" value="50.0,0.0,0.0,0.0" />
+        <val key="title.press#marUnit" value="0,0,0,0" />
+        <val key="title.press#margin" value="50.0,0.0,0.0,0.0" />
+        <val key="title.sel#marUnit" value="0,0,0,0" />
+        <val key="title.sel#margin" value="50.0,0.0,0.0,0.0" />
+        <val key="title1.align" value="1" />
+        <val key="title1.dis#align" value="1" />
+        <val key="title1.dis#fgColor" value="3fc4ed" />
+        <font key="title1.dis#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="90.0" />
+        <val key="title1.dis#marUnit" value="0,0,0,0" />
+        <val key="title1.dis#margin" value="40.0,0.0,0.0,0.0" />
+        <val key="title1.fgColor" value="3fc4ed" />
+        <font key="title1.font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="90.0" />
+        <val key="title1.marUnit" value="0,0,0,0" />
+        <val key="title1.margin" value="40.0,0.0,0.0,0.0" />
+        <val key="title1.press#align" value="1" />
+        <val key="title1.press#fgColor" value="3fc4ed" />
+        <font key="title1.press#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="90.0" />
+        <val key="title1.press#marUnit" value="0,0,0,0" />
+        <val key="title1.press#margin" value="40.0,0.0,0.0,0.0" />
+        <val key="title1.sel#align" value="1" />
+        <val key="title1.sel#fgColor" value="3fc4ed" />
+        <font key="title1.sel#font" type="ttf" face="0" style="0" size="0" name="native:MainRegular" family="native:MainRegular" sizeSettings="-1" actualSize="90.0" />
+        <val key="title1.sel#marUnit" value="0,0,0,0" />
+        <val key="title1.sel#margin" value="40.0,0.0,0.0,0.0" />
+        <val key="titreField.bgColor" value="272626" />
+        <val key="titreField.dis#bgColor" value="272626" />
+        <border key="titreField.dis#border" type="line" millimeters="false" thickness="2.0" color="4179181" />
+        <val key="titreField.dis#fgColor" value="3fc4ed" />
+        <val key="titreField.dis#padUnit" value="0,0,0,0" />
+        <val key="titreField.dis#padding" value="8.0,8.0,8.0,8.0" />
+        <val key="titreField.dis#transparency" value="255" />
+        <val key="titreField.fgColor" value="3fc4ed" />
+        <val key="titreField.padding" value="8.0,8.0,8.0,8.0" />
+        <val key="titreField.press#bgColor" value="272626" />
+        <border key="titreField.press#border" type="line" millimeters="false" thickness="2.0" color="4179181" />
+        <val key="titreField.press#fgColor" value="3fc4ed" />
+        <val key="titreField.press#padUnit" value="0,0,0,0" />
+        <val key="titreField.press#padding" value="8.0,8.0,8.0,8.0" />
+        <val key="titreField.press#transparency" value="255" />
+        <val key="titreField.sel#bgColor" value="272626" />
+        <border key="titreField.sel#border" type="line" millimeters="false" thickness="2.0" color="4179181" />
+        <val key="titreField.sel#fgColor" value="3fc4ed" />
+        <val key="titreField.sel#padUnit" value="0,0,0,0" />
+        <val key="titreField.sel#padding" value="8.0,8.0,8.0,8.0" />
+        <val key="titreField.sel#transparency" value="255" />
+        <val key="titreField.transparency" value="255" />
+        <val key="titreLabel.dis#fgColor" value="272626" />
+        <val key="titreLabel.dis#marUnit" value="0,0,0,0" />
+        <val key="titreLabel.dis#margin" value="10.0,0.0,0.0,0.0" />
+        <val key="titreLabel.fgColor" value="272626" />
+        <val key="titreLabel.marUnit" value="0,0,0,0" />
+        <val key="titreLabel.margin" value="10.0,0.0,0.0,0.0" />
+        <val key="titreLabel.press#fgColor" value="272626" />
+        <val key="titreLabel.press#marUnit" value="0,0,0,0" />
+        <val key="titreLabel.press#margin" value="10.0,0.0,0.0,0.0" />
+        <val key="titreLabel.sel#fgColor" value="272626" />
+        <val key="titreLabel.sel#marUnit" value="0,0,0,0" />
+        <val key="titreLabel.sel#margin" value="10.0,0.0,0.0,0.0" />
+    </theme>
+</resource>

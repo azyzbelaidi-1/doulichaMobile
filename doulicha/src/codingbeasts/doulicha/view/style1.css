@@ -1,0 +1,67 @@
+/* Couleurs */
+#HomeForm #primary-color {
+    background-color: #0077C2;
+}
+#HomeForm #secondary-color {
+    background-color: #64B5F6;
+}
+
+/* Boutons */
+#HomeForm .button {
+    background-color: linear-gradient(to bottom, #3FC4ED, #A6D4DC);
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#HomeForm .button:hover {
+    background-color: linear-gradient(to bottom, #A6D4DC, #3FC4ED);
+}
+
+/* Boutons ronds */
+#HomeForm .round-button {
+    background-color: linear-gradient(to bottom, #3FC4ED, #A6D4DC);
+    border-radius: 50%;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#HomeForm .round-button:hover {
+    background-color: linear-gradient(to bottom, #A6D4DC, #3FC4ED);
+}
+
+/* TableView */
+#HomeForm .table-view {
+    background-color: #F7F7F7;
+}
+
+#HomeForm .table-view .column-header-background {
+    background-color: #0077C2;
+}
+
+#HomeForm .table-view .column-header {
+    color: white;
+    font-weight: bold;
+}
+
+#HomeForm .table-view .table-cell {
+    text-align: left;
+    padding: 20px;
+}
+
+#HomeForm .table-view .table-row-cell:nth-child(odd) {
+    background-color: #F2F2F2;
+}
+
+#HomeForm .container {
+    border: 1px solid #E5E5E5;
+    border-radius: 5px;
+    margin: 10px 0;
+    padding: 10px;
+}
